@@ -4,12 +4,12 @@ Chatbot_data_for_Korean v1.0
 
 ## Data description.    
 
-인공데이터입니다.일부 이별과 관련된 질문에서 다음카페 "사랑보다 아름다운 실연( http://cafe116.daum.net/_c21_/home?grpid=1bld )"에서 자주 나오는 이야기들을 참고하여 제작하였습니다. 
+인공데이터입니다. 일부 이별과 관련된 질문에서 다음카페 "사랑보다 아름다운 실연( http://cafe116.daum.net/_c21_/home?grpid=1bld )"에서 자주 나오는 이야기들을 참고하여 제작하였습니다. 
 가령 "이별한 지 열흘(또는 100일) 되었어요"라는 질문에 챗봇이 위로한다는 취지로 답변을 작성하였습니다. 
 
 
 1. 챗봇 트레이닝용 문답 페어 11,876개           
-2. 일상다반서 0, 이별(부정) 1, 사랑(긍정) 2로 레이블링                
+2. 일상다반사 0, 이별(부정) 1, 사랑(긍정) 2로 레이블링                
                       
                      
 ## Quick peek.                
@@ -22,5 +22,5 @@ Chatbot_data_for_Korean v1.0
 - 전창욱 외(2020), 텐서플로2와 머신러닝으로 시작하는 자연어처리, 위키북스( http://cafe116.daum.net/_c21_/home?grpid=1bld )의 챗봇 부분에도 이 데이터가 사용된 것으로 알고 있습니다. 빠르게 챗봇 만들고 싶으신 분들은 참고하셔도 좋을 것 같습니다.
 - 데이터 로더를 통한 다운로드는 다음 링크 [Korpora: Korean Corpora Archives](https://github.com/ko-nlp/Korpora)를 참고하시면 편하게 사용하실 수 있을 듯합니다.
 
-- Catalog 로 정리되어 있는 다운로드 링크:  https://jeongukjae.github.io/tfds-korean/
+- Catalog 로 정리되어 있는 다운로드 링크: https://jeongukjae.github.io/tfds-korean/
    챗봇 데이터는 [여기](https://jeongukjae.github.io/tfds-korean/datasets/korean_chatbot_qa_data.html)를 참고할 수 있습니다.  
