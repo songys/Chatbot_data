@@ -22,5 +22,4 @@ Chatbot_data_for_Korean v1.0
 - 전창욱 외(2020), 텐서플로2와 머신러닝으로 시작하는 자연어처리, 위키북스( http://cafe116.daum.net/_c21_/home?grpid=1bld )의 챗봇 부분에도 이 데이터가 사용된 것으로 알고 있습니다. 빠르게 챗봇 만들고 싶으신 분들은 참고하셔도 좋을 것 같습니다.
 - 데이터 로더를 통한 다운로드는 다음 링크 [Korpora: Korean Corpora Archives](https://github.com/ko-nlp/Korpora)를 참고하시면 편하게 사용하실 수 있을 듯합니다.
 
-- Catalog 로 정리되어 있는 다운로드 링크: https://jeongukjae.github.io/tfds-korean/
-   챗봇 데이터는 [여기](https://jeongukjae.github.io/tfds-korean/datasets/korean_chatbot_qa_data.html)를 참고할 수 있습니다.  
+
